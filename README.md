@@ -2,8 +2,7 @@
 Describe Job-Related project 
 ## 儀表板
 **將信用卡資料藉由儀表板的視覺化，將資料轉化為資訊見解，分享給同業，以協助其行銷**
-### 結果呈現 
-go to see [儀表板.pdf](https://drive.google.com/file/d/11Eilu62cphTiK6-BjDNv7dWB0lnkFPBj/view?usp=drive_link)
+
 
 ---
 
